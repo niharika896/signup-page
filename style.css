@@ -24,8 +24,10 @@ body{
 }
 
 .wrapper{
+    border: 2px solid white;
+    backdrop-filter: blur(20px);
     border-radius: 30px;
-    background-color: rgb(240, 248, 255,0.7);
+    background-color:none;
     height:400px;
     width: 400px;
     display:flex;
